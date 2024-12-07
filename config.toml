@@ -6,7 +6,7 @@ theme = "glim-midnight"
     title = "AgileBuckle"
     phrases = ["Agile", "Buckle", "Fast", "Snap"]
     links = [
-    {name = "Github", url = "https://github.com/AgileBuckle"},    
+    {name = "Github Profile", url = "https://github.com/AgileBuckle"},    
     {name = "Email", url = "mailto:contact@agilebuckle.com"},    
     ] 
     background = "bg.mp4"
